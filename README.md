@@ -1,2 +1,2 @@
 # studybud
-A discord-like application with Python Django. Built following the tutorial of Dennis Ivy, found on https://www.youtube.com/watch?v=PtQiiknWUcI&t
+A discord-like application made with Python Django. Built following this [tutorial](https://www.youtube.com/watch?v=PtQiiknWUcI&t) by Dennis Ivy.
